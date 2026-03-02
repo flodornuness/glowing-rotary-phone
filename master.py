@@ -22,4 +22,5 @@ while True:
     mensagens.append({
         "nome": nome,
         "texto": texto
-    })
+    })  
+    
